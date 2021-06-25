@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DTFoundation",
+        "repositoryURL": "https://github.com/Cocoanetics/DTFoundation.git",
+        "state": {
+          "branch": null,
+          "revision": "0a656f67a6221a5c867551126c2500ca21d620d9",
+          "version": "1.7.17"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
